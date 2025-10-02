@@ -2,7 +2,7 @@
 
 Dear Hiring Manager,
 
-I am excited to apply for the data scientist position at your company. With a PhD degree and 5 years of experience in statistical modeling, machine learning, and data visualization, I have developed a strong foundation in data-driven insights and problem-solving.
+I  am excited to apply for the data scientist position at your company. With a PhD degree and 5 years of experience in statistical modeling, machine learning, and data visualization, I have developed a strong foundation in data-driven insights and problem-solving.
 
 Throughout my career, I have been driven by a passion for uncovering insights and driving change through data analysis. I am always looking for new challenges and opportunities to apply my skills and expertise to solve complex business problems.
 
